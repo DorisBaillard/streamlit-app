@@ -1,15 +1,10 @@
 #imports
 
-from tkinter import Y, OptionMenu
 import streamlit as st
 import pandas as pd
-from streamlit_option_menu import option_menu
 from PIL import Image
-import matplotlib.pyplot as plt
-import glob
 import pickle
 from pathlib import Path
-import streamlit_authenticator as stauth
 import requests
 from streamlit_lottie import st_lottie
 
