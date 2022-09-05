@@ -1,7 +1,5 @@
-from tkinter import Y, OptionMenu
 import streamlit as st
 import pandas as pd
-from streamlit_option_menu import option_menu
 import matplotlib.pyplot as plt
 import glob
 import streamlit as st
