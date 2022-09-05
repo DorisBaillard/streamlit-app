@@ -1,9 +1,6 @@
-from tkinter import Y, OptionMenu
-#from xml.etree.ElementPath import _Callback
 import streamlit as st
 import pandas as pd
 import numpy as np
-from streamlit_option_menu import option_menu
 from PIL import Image
 import matplotlib.pyplot as plt
 import glob
