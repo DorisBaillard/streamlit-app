@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from PIL import Image
-import matplotlib.pyplot as plt
 import glob
 from scipy.sparse import csr_matrix
 from sklearn.neighbors import NearestNeighbors
