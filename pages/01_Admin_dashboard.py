@@ -8,7 +8,6 @@ from PIL import Image
 import numpy as np
 import pickle
 from sklearn.neighbors import NearestNeighbors
-from numpy.linalg import norm
 import requests
 from streamlit_lottie import st_lottie
 
