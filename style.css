@@ -18,7 +18,7 @@ a {
     border: 1px solid #DCDCDC;
         padding: 4px 12px; 
         border-radius: 5px;
-    background-color: rgb(17, 102, 228);
+    background-color: rgb(255, 255, 255);
 }
 
 a:visited {
@@ -92,4 +92,10 @@ img {
 
 .css-rytr0c {
     visibility: hidden;
+}
+
+.css-1cpxqw {
+    background-color: rgb(33, 15, 134);
+    color: rgb(255, 255, 255);
+
 }
