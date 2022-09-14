@@ -14,11 +14,11 @@
 a {
     
     text-decoration: none;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     border: 1px solid #DCDCDC;
         padding: 4px 12px; 
         border-radius: 5px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(17, 102, 228);
 }
 
 a:visited {
@@ -94,8 +94,14 @@ img {
     visibility: hidden;
 }
 
-.css-1cpxqw {
+.css-1cpxqw2 {
     background-color: rgb(33, 15, 134);
     color: rgb(255, 255, 255);
+
+}
+
+.css-1cpxqw2:visited {
+    background-color: rgb(255, 255, 255);
+    color: rgb(33, 15, 134);
 
 }
