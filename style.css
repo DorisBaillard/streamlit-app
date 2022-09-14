@@ -21,11 +21,7 @@ a {
 }
 
 a:visited {
-    color: rgb(255, 255, 255);
-    border: 1px solid #DCDCDC;
-        padding: 4px 12px; 
-        border-radius: 5px;
-    background-color: rgb(17, 102, 228);
+    text-decoration: none;
   }
 
 .css-1sslkv8 a {
